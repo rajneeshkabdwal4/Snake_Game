@@ -7,6 +7,7 @@ public class SnakeGame extends JFrame{
         add (new Board());
 //        pack fn used for refreshing the frame while it is still running
         pack();
+        setResizable(false);
 
 
 //        setting dimensions of frame
