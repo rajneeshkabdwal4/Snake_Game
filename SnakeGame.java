@@ -9,7 +9,6 @@ public class SnakeGame extends JFrame{
         pack();
         setResizable(false);
 
-
 //        setting dimensions of frame
         setSize(300,300);
         setLocationRelativeTo(null);
